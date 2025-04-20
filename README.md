@@ -1,6 +1,6 @@
 # Real-Time-Chat-Application
 
-Estimated time: 6 hours
+
 Main Focus: Local storage, Backend setup, WebSockets, Responsiveness
 
 What is that I have to build?
